@@ -1,6 +1,6 @@
 ---
-name: Bug
-about: Template for bug report
+name: #Bug
+about: #Template for bug report
 ---
 
 ## Description
