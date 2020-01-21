@@ -7,3 +7,9 @@ about: Any issue concerning  bug
 1. add
 2. commit 
 3. push
+
+```javascript
+const test = "robert"
+
+console.log(test);
+```
